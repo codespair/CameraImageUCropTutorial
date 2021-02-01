@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codespair camera crop tutorial</string>
+    <string name="imageContentDesc">Cropped Image</string>
+    <string name="cameraButton">Take Picture</string>
+</resources>
